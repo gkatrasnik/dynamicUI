@@ -1,0 +1,23 @@
+ul {
+  list-style-type: none;
+  margin-top: 0px;
+}
+
+li {
+  padding: 0px 10px;
+}
+
+li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.expand {
+  padding-left: 50px;
+  margin: 0px;
+}
+
+.expand:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
